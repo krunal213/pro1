@@ -1,0 +1,2 @@
+public class LocalFile1 {
+}
